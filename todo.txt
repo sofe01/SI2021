@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 TODO solve the bug
+=======
+
+>>>>>>> 82558d42a37f23e2e28dc11fa54eb0e1e051caeb
